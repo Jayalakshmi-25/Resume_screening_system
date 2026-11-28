@@ -1,0 +1,8 @@
+streamlit>=1.40
+pypdf>=5.0
+Pillow>=10.0
+python-dotenv>=1.0
+twilio>=9.0
+requests>=2.32
+fastapi>=0.115
+uvicorn>=0.30
